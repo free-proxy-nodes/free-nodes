@@ -1,8 +1,8 @@
 # 每日更新，2025年免费公益 V2ray/Trojan/SS/Hysteria2 节点订阅 | 科学上网
 
-## 1. **[稳联云](/goto/stablenet2)**
+## 1. **[稳联云](https://v2raya.net/goto/stablenet2)**
 
-<a href="/goto/stablenet2" target="_blank"><image src="https://proxyplazza.com/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
+<a href="https://v2raya.net/goto/stablenet2" target="_blank"><image src="https://proxyplazza.com/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
 
 - 主打速度快，节点稳老牌机场;
 - 有不限时套餐选择;
@@ -29,11 +29,11 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 - IEPL/IPLC基础专线: 最高速率200Mbps, 100G 流量/月，48元/月; 129.8元/季; 228元/半年; 428元/年; 总设备数不限;
 - IEPL/IPLC高级专线: 最高速率300Mbps, 200G 流量/月，88元/月; 251.8元/季; 475.2元/半年; 897元/年; 总设备数不限;
 
-<a href="/goto/stablenet2" target="_blank">稳联云 入口</a>
+<a href="https://v2raya.net/goto/stablenet2" target="_blank">稳联云 入口</a>
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025年02月15日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025年03月13日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -64,4 +64,4 @@ https://my.stableproxy.top/api/v1/client/subscribe?token=7a59dcfb5d05610d68de9db
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025年02月15日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025年03月13日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
