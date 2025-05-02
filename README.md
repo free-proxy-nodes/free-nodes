@@ -36,7 +36,7 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 在这个部分，我们将为你介绍2025年05月02日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
-
+# 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
 https://my.airplanehub.xyz/api/v1/client/subscribe?token=d8404023cc2e8af24dcae855a3d9f753
