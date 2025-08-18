@@ -1,4 +1,4 @@
-# 每日更新，2025 年 08 月 18 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 每日更新，2025 年 08 月 05 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. **[稳联云](https://v2raya.net/goto/stablenet2)**
 
@@ -18,40 +18,40 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 
 **套餐价格：**
 
--   入门套餐：最高速率 100Mbps, 150G 流量/月， 12.8 元/月; 35.8 元/季; 69.9 元/半年; 129.9 元/年; 总设备数不限;
--   标准套餐：最高速率 200Mbps, 300G 流量/月， 21.8 元/月; 61.8 元/季; 118.8 元/半年; 218.8 元/年; 总设备数不限;
--   高级套餐：最高速率 300Mbps, 500G 流量/月， 33.8 元/月; 96.8 元/季; 182.8 元/半年; 345.8 元/年; 总设备数不限;
--   豪华套餐：最高速率 400Mbps, 800G 流量/月， 51.8 元/月; 147.6 元/季; 279.9 元/半年; 528.8 元/年; 总设备数不限;
--   至尊套餐：最高速率 500Mbps, 1000G 流量/月， 66.8 元/月; 188.8 元/季; 360 元/半年; 681 元/年; 总设备数不限;
--   不限时流量 - A 套餐：最高速率 200Mbps, 300G 流量/不限时， 69.9 元; 总设备数不限;
--   不限时流量 - B 套餐：最高速率 300Mbps, 500G 流量/不限时， 105 元; 总设备数不限;
--   不限时流量 - C 套餐：最高速率 400Mbps, 800G 流量/不限时，148 元; 总设备数不限;
--   IEPL/IPLC 基础专线: 最高速率 200Mbps, 100G 流量/月，48 元/月; 129.8 元/季; 228 元/半年; 428 元/年; 总设备数不限;
--   IEPL/IPLC 高级专线: 最高速率 300Mbps, 200G 流量/月，88 元/月; 251.8 元/季; 475.2 元/半年; 897 元/年; 总设备数不限;
+- 入门套餐：最高速率100Mbps, 150G 流量/月， 9.9元/月; 28.8元/季; 53.8元/半年; 100元/年; 总设备数不限;
+- 标准套餐：最高速率200Mbps, 300G 流量/月， 18.8元/月; 53.8元/季; 101.8元/半年; 188元/年; 总设备数不限;
+- 高级套餐：最高速率300Mbps, 500G 流量/月， 28.8元/月; 79.8元/季; 151.2元/半年; 285.6元/年; 总设备数不限;
+- 豪华套餐：最高速率400Mbps, 800G 流量/月， 48.8元/月; 139元/季; 263元/半年; 497元/年; 总设备数不限;
+- 至尊套餐：最高速率500Mbps, 1000G 流量/月， 66.8元/月; 190.3元/季; 360.7元/半年; 688.3元/年; 总设备数不限;
+- 不限时流量 - A 套餐：最高速率200Mbps, 300G 流量/不限时， 68.8元; 总设备数不限;
+- 不限时流量 - B 套餐：最高速率300Mbps, 500G 流量/不限时， 88.8元; 总设备数不限;
+- 不限时流量 - C 套餐：最高速率400Mbps, 800G 流量/不限时，128.8元; 总设备数不限;
+- IEPL/IPLC基础专线: 最高速率200Mbps, 100G 流量/月，48元/月; 129.8元/季; 228元/半年; 428元/年; 总设备数不限;
+- IEPL/IPLC高级专线: 最高速率300Mbps, 200G 流量/月，88元/月; 251.8元/季; 475.2元/半年; 897元/年; 总设备数不限;
 
 <a href="https://v2raya.net/goto/stablenet2" target="_blank">稳联云 入口</a>
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 08 月 18 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 08 月 05 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=c117d680e9ef60893f3f5ec24572d714
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=d1c32617967277604c54e869451bd895
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=75292a79d05eda7dcfe953719ced224b
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=8093d546545000764051ed1de5ba00d1
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=ebc63d60dc05bb209a092bee1d1fc8fe
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=2e81841d53c93066dee60a58bbc08719
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=32328ef34ae7d2ea31a19ceb0c6e4d03
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=7842acb51820441b1a11c6f22fd073ff
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=8fdfdb4cffc7993085434cf5f40a899a
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=570c772e82a8530aca09be2e9bdc9bdb
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=fa17e7804db42c8a9743063e268f861e
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=a762bcc4cdc1e4031603550c4ce67aba
-https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=829e5663c207e4ff4278767982649fdf
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=9f1745badae2695ec61743f1019a712d
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=78e92315623830d3fb251fadc4c00b50
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=3bd18843bcb9910c8cd386c69b4e01df
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=691aa003e4aa6342eed3a67e0503d6a1
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=4b242f03faf27cac4b7d2759325da992
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=d433c7095b779b8eb6685a182c283298
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=75f9e7845741a007f52fce2279740145
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=b031a7231e7fefea0880ce5fc4b170a2
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=9ce76d6d162ca625630f8f92b216c182
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=105cc6c152070162b653dd35f9659244
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=2d12f0474d932131528632c764dc6e0b
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=aeae343f0ef350ea97ad6136ce71dd09
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=27bad9852f4a5701e011cd011d049283
 
 ```
 
@@ -64,4 +64,4 @@ https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=829e5663c207e4ff
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 08 月 18 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 08 月 05 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
