@@ -41,7 +41,7 @@
 - [Hiddify Next (Android) 安装与配置教程](https://proxyguide.org/hiddifyapp/android/)
 - [Hiddify Next (iOS) 安装与配置教程](https://proxyguide.org/hiddifyapp/ios/)
 - [Windows 平台 v2rayN 安装与配置教程](https://proxyguide.org/v2ray/v2rayN-install/)
-- [https://proxyguide.org/clash/clash-verge-on-linux/](https://proxyguide.org/clash/clash-verge-on-linux/)
+- [clash verge rev](https://proxyguide.org/clash/clash-verge-on-linux/)
 
 ## 1.3. 免费订阅
 
