@@ -53,7 +53,7 @@ https://fn03.20251117.top/api/v1/client/subscribe?token=e9dfbdcb585598b3448703b9
 https://fn03.20251117.top/api/v1/client/subscribe?token=8c3ad39741f1af5c44f589d3221505c8
 https://fn03.20251117.top/api/v1/client/subscribe?token=9370b0ebab3117d97b28fa094eac69fe
 https://fn03.20251117.top/api/v1/client/subscribe?token=782f7e716436670715c705c5c4ae6b60
-https://fn03.20251117.top/api/v1/client/subscribe?token=9bb02e464a7c16bfeee476d06ef96d89
+https://fn03.20251117.top/api/v1/client/subscribe?token=cc5f3ddf0ac30e42e977a78d4e68f1b4
 https://fn03.20251117.top/api/v1/client/subscribe?token=bd135084f83ba6e61fc0a357652e09ec
 
 ```
