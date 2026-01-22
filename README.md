@@ -62,13 +62,13 @@ https://fn10.sp1230.top/api/v1/client/subscribe?token=3515876489d5c07e06b30bbfc4
 
 免费节点结合以下支持最新协议的翻墙客户端使用效果最佳：
 
-- [Linux 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/linux/)
-- [MacOS 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/macos/)
-- [Windows 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/windows/)
-- [Hiddify Next (Android) 安装与配置教程](https://proxyguide.org/hiddifyapp/android/)
-- [Hiddify Next (iOS) 安装与配置教程](https://proxyguide.org/hiddifyapp/ios/)
-- [Windows 平台 v2rayN 安装与配置教程](https://proxyguide.org/v2ray/v2rayN-install/)
-- [clash verge rev](https://proxyguide.org/clash/clash-verge-on-linux/)
+- [Linux 上安装与配置 HiddifyApp](https://docs.proxyguide.org/hiddifyapp/linux/)
+- [MacOS 上安装与配置 HiddifyApp](https://docs.proxyguide.org/hiddifyapp/macos/)
+- [Windows 上安装与配置 HiddifyApp](https://docs.proxyguide.org/hiddifyapp/windows/)
+- [Hiddify Next (Android) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/android/)
+- [Hiddify Next (iOS) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/ios/)
+- [Windows 平台 v2rayN 安装与配置教程](https://docs.proxyguide.org/v2ray/v2rayN-install/)
+- [clash verge rev](https://docs.proxyguide.org/clash/clash-verge-on-linux/)
 
 ## 4. 使用须知
 
