@@ -40,8 +40,8 @@
 # V2ray订阅链接：
 
 https://fn10.sp1230.top/api/v1/client/subscribe?token=3a6c7f728f4cba65654753730f6fde62
-https://fn10.sp1230.top/api/v1/client/subscribe?token=f05d83f379731525304f60620a8a16f9
-https://fn10.sp1230.top/api/v1/client/subscribe?token=235a0b08c3b619b0b9c366caf385007e
+https://fn10.sp1230.top/api/v1/client/subscribe?token=7fe466967b4ea80acfbc400afb6e0235
+https://fn10.sp1230.top/api/v1/client/subscribe?token=7e967d1e5066aacb975693f2a23b48b3
 https://fn10.sp1230.top/api/v1/client/subscribe?token=9d0326eb7bbf778d610088c196d8b981
 https://fn10.sp1230.top/api/v1/client/subscribe?token=1fe298efd1f6497aaad23bbbbce7866f
 https://fn10.sp1230.top/api/v1/client/subscribe?token=356d3da62935cf836e9933daf6815303
