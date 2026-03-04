@@ -39,7 +39,7 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn12.sp1230.top/api/v1/client/subscribe?token=1a0db535a9102d237c5ad6040f1aae54
+https://fn12.sp1230.top/api/v1/client/subscribe?token=23df363594cc97d8aa6876c6d8b93983
 https://fn12.sp1230.top/api/v1/client/subscribe?token=b39626b358ea5a62893c37395659ba9b
 https://fn12.sp1230.top/api/v1/client/subscribe?token=7ce6b2ef85b128395bbcf4418247b498
 https://fn12.sp1230.top/api/v1/client/subscribe?token=c978ef4526fdeac92b6840d7d8ad64c0
@@ -49,8 +49,8 @@ https://fn12.sp1230.top/api/v1/client/subscribe?token=ae6fd3df49728588091b0c9e47
 https://fn12.sp1230.top/api/v1/client/subscribe?token=7a19d3fd2e6869ab78e772185f4018e7
 https://fn12.sp1230.top/api/v1/client/subscribe?token=f4144cbc0698e2ec5e90468a9ed5802d
 https://fn12.sp1230.top/api/v1/client/subscribe?token=6b10ba919e7d37c0a8df9a0c3d7898f7
-https://fn12.sp1230.top/api/v1/client/subscribe?token=d8734b6af7868ed6d8706e8b154dd9bd
-https://fn12.sp1230.top/api/v1/client/subscribe?token=b489c2279486b0924973b85ac1c35b33
+https://fn12.sp1230.top/api/v1/client/subscribe?token=1c16233d6c80d15825bd72068610c6a3
+https://fn12.sp1230.top/api/v1/client/subscribe?token=8c1eda977be1f2a81bfb1f2e279bf80a
 https://fn12.sp1230.top/api/v1/client/subscribe?token=80920b9d032993e5cfeadf07fc03ba0b
 https://fn12.sp1230.top/api/v1/client/subscribe?token=f796a2cdd918c2d2d18f8823517666df
 https://fn12.sp1230.top/api/v1/client/subscribe?token=3ef23f91e228aa39eb3f17feb20de1c6
