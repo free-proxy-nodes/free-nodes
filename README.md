@@ -40,7 +40,7 @@
 # V2ray订阅链接：
 
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=499acf27dd9d008a9ecb01ee2c00f777
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=54db0a9436c875966be426a16aaff065
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=bab7c63fa013db45e358e2466fad92eb
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a7ac14095cd204a036446803caf1a3ef
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=d196b986d511f012f3ff514089fdc121
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=1cc76269e8718047f76304624bc3a543
@@ -52,7 +52,7 @@ https://fn06.sp0303.xyz/api/v1/client/subscribe?token=3ad244d330c119c3dd276551ac
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=92a5d1fdcee1e5316ee97b1ed39b844b
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a1fcbcc5660d8e1fb53fdd853957fdd1
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=e3d5e11e697c5c6ecfd539bbbb5f1d14
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=1db209dc199d988dff85d5e6f39eb731
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=6c5e70de8ea80ef239f16ba2eefb115b
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=3b95c59ac9248a9f9329c37eb3ce6c5f
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=f95a3ab27ba050e4bf45e857f97112be
 
