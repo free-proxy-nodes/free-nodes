@@ -1,4 +1,4 @@
-# 2026 年 03 月 20 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 03 月 21 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -33,23 +33,23 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 03 月 20 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 03 月 21 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=65728c9d8c4f84d1cedebbcbe9d44c8b
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=639792f02e375071bf7fe1248bb1fe09
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=175b627eeb12fa14fdda28a642e9ebce
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=3118a41319d77a301431e3260eb98ae0
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=c79171526adf4782ca95c9005759fb58
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=635d9225b2b7a4968167929267cd7b6a
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=426687c57ac7360b1b541a3bacb511a7
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=1f0a43b724356d4af17fb01d8464e6e6
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=116d1f36f5f73125dd45f2c5dca58425
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=3c2883824398576287716e712a00166e
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=8571d163b14174d3f3bf4f9ffb0bbdbe
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=f2fa8b5b7a765e0c2d7613222b223e69
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=ae6b29f1f87e866d5c047fbc45483834
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a2a4f57eb03a966b9623483da9c32c0f
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=d4c9c0ac8de44c546dd16611a41ef230
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=d4c42fc0ba971f89e2a6204406115ad2
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=e07b3ba5a683209c15c4efc9cf55eb1a
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=1430e7675ad9f77712386c1f9e5b5577
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=6f5e663697e1ded8696d1cf4934b3c7e
@@ -78,4 +78,4 @@ https://fn06.sp0303.xyz/api/v1/client/subscribe?token=2ad639be85f28bdf39c0e741da
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 03 月 20 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 03 月 21 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
