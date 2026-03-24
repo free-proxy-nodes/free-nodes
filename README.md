@@ -40,7 +40,7 @@
 # V2ray订阅链接：
 
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=3462536a0ed72475c1b31c21d9f12d93
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=aac36f06d7388c7aaa9dfeb78b289d0d
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=8756fe041bcabc09fcb26002f1879e90
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=9641c974039f0595bb8bfbc13af2e5ff
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=ecbac2c25264584bd5d855d57661a319
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=8100b7be0970d55e88d25beaa16cabfe
