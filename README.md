@@ -41,7 +41,7 @@
 
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=76990a6cadd16a5faa3ea6da5e3ff579
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=627cfe792f6dc5a0b8a0796757f99d40
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=2623859c8dc6342477a7733c6dd9ba9e
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=34e11d54fee00577c66d282d0fe17749
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=c13d483beb38aca6073fc45cb8a339a1
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=1c32549a426bac3ab571aec53e22707a
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=8c4016f2a8bfe9018cefa1be882b739b
