@@ -39,21 +39,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=39c1d421667070f7199abfe66ea22c6f
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=c73e2a9e405864cc17f01af62d82f16b
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=89f364c50eaeca2a61a911543f907d9c
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=0a7de2fac53d45c8cd04043c7830e832
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=920da60336038de13da7123a0ac69272
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=86fa1f36fd441437065772751151ea7f
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=2d71aa7711d9443efa9cd8f403d6a2d9
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=600b850d82f08928abcd4cc3844f4a56
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=bd2c098312b600fc20acc07f4361ebd4
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=58bc5f7316110ceb7e410fceac15325f
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=54455cfc0dc66de6ace62766e44d2947
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a80db5d9edabdef444399b85067becb9
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=1aee1be57275b2e07108a606f194a975
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=f40e706bd6b13f6b2df0b8fe2eab91c2
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=dbf8e8cfe8e3f57bb7d35eadf9e7e35b
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=7bb92b5048df15bc0a8c482040587d76
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=55aa21a8181a04319ae4711c1de832ec
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=79f26e3aebebf93eb09756490b57865a
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=ca4eba7ea160e444d6103bd61c62a60c
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=510a529055ecd39248a3b6e0bbc61b8a
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=d8a227f224fec57401e308a61f78d93c
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=db2d12a1e72d42002be3e3b64029a2c1
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=269b0b8cbd67dbbdcac000a1c1194cdd
 
 ```
 
