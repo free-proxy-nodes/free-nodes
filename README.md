@@ -1,4 +1,4 @@
-# 2026 年 04 月 11 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 04 月 12 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -33,7 +33,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 04 月 11 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 04 月 12 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
@@ -48,12 +48,12 @@ https://fn06.sp0303.xyz/api/v1/client/subscribe?token=4166429b36a1893c5675622ea9
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a52614c870880f822c13f3ef969b08d3
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=695aba61d10203f9df90bcbe27f487f8
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=7acf3ba7aa8c40e26845620e06c0b45f
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=0241e593404802bd8090da584e425304
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=e2928aaef6c38704a9ff7231330db625
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a5edded5cba5f2e44f33ef0951061feb
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=3ab193495bfce1809958f6277df1880a
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=f14d73257f4eda555d7dead69231a739
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=0450fae0d305c4fda40e6394836b018e
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=bf272693248b0610687ee038f33d7e2e
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=76fec282e9bff3ae2376f64b4a05de57
 
 ```
 
@@ -78,4 +78,4 @@ https://fn06.sp0303.xyz/api/v1/client/subscribe?token=bf272693248b0610687ee038f3
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 04 月 11 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 04 月 12 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
