@@ -41,7 +41,7 @@ https://fn06.sp0303.xyz/api/v1/client/subscribe?token=82275ca1b67417ca7a2386be3f
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=895b0b40fe992282116e80b4c61a5691
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=8b8e4aa0d92e20a729ea02700be0496b
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=bc30a87a51ed363a5379dbafdf6623ba
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=0bfb22a0238dc9220936e58ab5f92bfa
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=7d31fa35b6a44602316ab3d0a4ae6786
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=040905d9a3061ffe8640789905ef0943
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=30826a9ca5d8839e8923e7510ba960db
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=781899cc9802efa9f2bb5c849f90ea70
@@ -51,7 +51,7 @@ https://fn06.sp0303.xyz/api/v1/client/subscribe?token=790d77a56dee82038c5961718f
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=230803b2ff9b82bb133c3d068926be5c
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=a7a14be641cb6042e412daf3e5eadeb2
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=11af1934e6b1a8b5800ab50dcb13dd98
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=e8fe611b942a3993a073bd81c7161dfc
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=38b2dacc3f74ce19bb47d8711b2a3158
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=fce36fed3ed9d19f0070980b5fdcecac
 
 ```
