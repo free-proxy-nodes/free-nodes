@@ -37,12 +37,12 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=ae8e03958cf7e45f4289ad51dad73103
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=57db2979bc8f188608e849c742cc882b
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=53686cf0c8f8842e340b7fb65f4caa34
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=9a4a6175417f82cf197e53d8042586ab
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=0d79ac3aa1a7732de4e41c624812c70f
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=89048bb9a064d20d001d2a3d96b3125b
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=94ed810342d505f6772bc66d8c1fd358
-https://fn06.sp0303.xyz/api/v1/client/subscribe?token=d551ab244256cdba93244f36d12e1abc
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=cc08216b88e31cdfa3df949065672f58
+https://fn06.sp0303.xyz/api/v1/client/subscribe?token=aaf0ac5dc6b53b88b841011ce552d6b6
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=366c2fa32752d8c436db6fd24dc57a8f
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=befb16bd85e7cacb8f5c202e160bd4f2
 https://fn06.sp0303.xyz/api/v1/client/subscribe?token=aeae2dab9b7982ce05a67691da540d64
