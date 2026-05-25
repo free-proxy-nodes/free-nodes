@@ -1,4 +1,4 @@
-# 2026 年 05 月 24 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 05 月 25 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -31,27 +31,27 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 05 月 24 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 05 月 25 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn06.sp0502.xyz/s/e267422569869352f609640812c16a3a
+https://fn06.sp0502.xyz/s/57afb3575c9b14442619705cb2728a83
 https://fn06.sp0502.xyz/s/1492e9bce2dd7bb60dafa6772909124c
 https://fn06.sp0502.xyz/s/cb2db7e84f275f851aca0774e6f8ad48
-https://fn06.sp0502.xyz/s/714bcb4777957f54660f05345f4ee21b
-https://fn06.sp0502.xyz/s/1a137dc864457590744d888ba3bc68d4
+https://fn06.sp0502.xyz/s/84d638981edeb04be7d64d7788183a16
+https://fn06.sp0502.xyz/s/cdd27fe8e663e48f5f3fc305c33ba32f
 https://fn06.sp0502.xyz/s/53dc4c5744df63f406db972b58ab8832
-https://fn06.sp0502.xyz/s/5cfd30d7e78fd6fbd535324694c40b67
+https://fn06.sp0502.xyz/s/8925d5dbb444a146d5b7e61cadff5ee3
 https://fn06.sp0502.xyz/s/6080a3477693864dbe7d013d87f952d7
-https://fn06.sp0502.xyz/s/505dfea33c7e872c39112938f3891885
+https://fn06.sp0502.xyz/s/5b436495fd345a06e0f61369d386b98a
 https://fn06.sp0502.xyz/s/c634e24b57127842ca6ac00dccb4215d
-https://fn06.sp0502.xyz/s/8516f270b2caca859e34cc2d929377a2
+https://fn06.sp0502.xyz/s/3c3f4bf3f9117976756672315d94f989
 https://fn06.sp0502.xyz/s/8fd8e439a907534b434fdd807eedd02b
-https://fn06.sp0502.xyz/s/c66d2774d04bc3910bc53469a649ce6f
+https://fn06.sp0502.xyz/s/fc997e0644b339e39d7b3197fdc62068
 https://fn06.sp0502.xyz/s/d3c836905c81a753faabfc3445dbf21c
-https://fn06.sp0502.xyz/s/26893e51f63b439a52feea2aec332d65
+https://fn06.sp0502.xyz/s/4f16a3f7f5eb9752fb57ab8be2ce1e77
 https://fn06.sp0502.xyz/s/e403041185f025f6e066e131bec39cac
 https://fn06.sp0502.xyz/s/f6fb10cb5106b9de4c0411cf92d331ff
 
@@ -78,4 +78,4 @@ https://fn06.sp0502.xyz/s/f6fb10cb5106b9de4c0411cf92d331ff
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 05 月 24 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 05 月 25 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
